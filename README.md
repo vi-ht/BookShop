@@ -1,12 +1,12 @@
-# Welcome to BookShop repository
+# 🎉 Welcome to BookShop repository 🎉
 A website that sells books.
 
-## You will find in this repo:
+## 1️⃣ You will find in this repo:
 * BookShop Java source code
 * .gitignore file to tell Git which ones will be uploaded
 * README.md - this file ifself to show the home page of this repo
 
-## This system contains the following functions:
+## 2️⃣ This system contains the following functions:
 * Function	1:	Registration	
 * Function	2:	Login
 * Function	3:	Search/ update/ delete	user
