@@ -15,7 +15,7 @@ A website that sells books.
 * Function	6:	Payment
 * Function	7:	Remove item in cart
 
-## Connect me via
-1. [facebook](https://www.facebook.com/merry.kute.31/)
-2. [Email](mailto:thanhviii888@gmail.com)
+## 💬 Connect me via ❓ 
+  * [facebook](https://www.facebook.com/merry.kute.31/)📌
+  * [Email](mailto:thanhviii888@gmail.com)✉️
 #### ⓒ 2021 by Thanh Vi
